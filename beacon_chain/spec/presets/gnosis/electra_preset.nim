@@ -52,7 +52,7 @@ const
   # Withdrawals processing
   # ---------------------------------------------------------------
   # 2**3 ( = 8) pending withdrawals
-  MAX_PENDING_PARTIALS_PER_WITHDRAWALS_SWEEP* = 8
+  MAX_PENDING_PARTIALS_PER_WITHDRAWALS_SWEEP* = 6
 
   # Pending deposits processing
   # ---------------------------------------------------------------
